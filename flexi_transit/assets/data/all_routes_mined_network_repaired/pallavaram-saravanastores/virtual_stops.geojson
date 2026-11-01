@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "pallavaram-saravanastores_VirtualStops",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pallavaram Terminal",
+        "lat": 12.969947,
+        "lon": 80.150309,
+        "type": "TERMINAL_ORIGIN",
+        "dist_m": 0.0,
+        "support_trips": 4,
+        "avg_dwell_sec": 60.0,
+        "stop_id": "PS_STOP_00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.150309,
+          12.969947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saravanastores Terminal",
+        "lat": 12.957042,
+        "lon": 80.14356,
+        "type": "TERMINAL_DESTINATION",
+        "dist_m": 1610.7,
+        "support_trips": 4,
+        "avg_dwell_sec": 60.0,
+        "stop_id": "PS_STOP_01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.14356,
+          12.957042
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "name": "sairam-tambaram_VirtualStops",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "ST_STOP_00",
+        "stop_name": "Sairam Terminal",
+        "stop_type": "TERMINAL_ORIGIN",
+        "distance_from_origin_m": 0.0,
+        "trip_support_count": 6,
+        "avg_dwell_time_sec": 60.0,
+        "mode": "INFORMAL_SHARED_AUTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.059292,
+          12.958813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "ST_STOP_01",
+        "stop_name": "Tambaram Terminal",
+        "stop_type": "TERMINAL_DESTINATION",
+        "distance_from_origin_m": 7258.8,
+        "trip_support_count": 6,
+        "avg_dwell_time_sec": 60.0,
+        "mode": "INFORMAL_SHARED_AUTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.119513,
+          12.930233
+        ]
+      }
+    }
+  ]
+}

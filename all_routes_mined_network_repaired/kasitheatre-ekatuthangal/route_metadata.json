@@ -1,0 +1,12 @@
+{
+  "route_name": "kasitheatre-ekatuthangal",
+  "trip_count": 9,
+  "total_detected_stops": 2,
+  "corridor_distance_m": 1331.29,
+  "dbscan_eps_m": 50.0,
+  "dbscan_min_samples": 2,
+  "minimum_dwell_seconds": 20.0,
+  "crawl_speed_threshold_kmh": 5.0,
+  "terminal_buffer_m": 100.0,
+  "osm_map_matching": true
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "name": "test-tambaram_VirtualStops",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Test Terminal",
+        "lat": 12.959323,
+        "lon": 80.059117,
+        "type": "TERMINAL_ORIGIN",
+        "dist_m": 0.0,
+        "support_trips": 4,
+        "avg_dwell_sec": 60.0,
+        "stop_id": "TT_STOP_00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.059117,
+          12.959323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virtual Feeder Stop #1",
+        "lat": 12.94056,
+        "lon": 80.083341,
+        "type": "INTERMEDIATE_VIRTUAL_STOP",
+        "dist_m": 3353.1,
+        "support_trips": 4,
+        "avg_dwell_sec": 35.0,
+        "stop_id": "TT_STOP_01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.083341,
+          12.94056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambaram Terminal",
+        "lat": 12.929697,
+        "lon": 80.119224,
+        "type": "TERMINAL_DESTINATION",
+        "dist_m": 7299.3,
+        "support_trips": 4,
+        "avg_dwell_sec": 60.0,
+        "stop_id": "TT_STOP_02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.119224,
+          12.929697
+        ]
+      }
+    }
+  ]
+}

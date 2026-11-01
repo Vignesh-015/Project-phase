@@ -1,0 +1,3 @@
+name,lat,lon,type,dist_m,support_trips,avg_dwell_sec,stop_id
+Kasitheatre Terminal,13.029905,80.209033,TERMINAL_ORIGIN,0.0,9,60.0,KE_STOP_00
+Ekatuthangal Terminal,13.018319,80.205936,TERMINAL_DESTINATION,1331.3,9,60.0,KE_STOP_01

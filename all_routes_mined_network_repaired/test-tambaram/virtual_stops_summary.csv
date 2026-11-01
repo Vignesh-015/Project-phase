@@ -1,0 +1,4 @@
+name,lat,lon,type,dist_m,support_trips,avg_dwell_sec,stop_id
+Test Terminal,12.959323,80.059117,TERMINAL_ORIGIN,0.0,4,60.0,TT_STOP_00
+Virtual Feeder Stop #1,12.94056,80.083341,INTERMEDIATE_VIRTUAL_STOP,3353.1,4,35.0,TT_STOP_01
+Tambaram Terminal,12.929697,80.119224,TERMINAL_DESTINATION,7299.3,4,60.0,TT_STOP_02

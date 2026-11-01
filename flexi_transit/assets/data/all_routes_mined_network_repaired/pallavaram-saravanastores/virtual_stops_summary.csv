@@ -1,0 +1,3 @@
+name,lat,lon,type,dist_m,support_trips,avg_dwell_sec,stop_id
+Pallavaram Terminal,12.969947,80.150309,TERMINAL_ORIGIN,0.0,4,60.0,PS_STOP_00
+Saravanastores Terminal,12.957042,80.14356,TERMINAL_DESTINATION,1610.7,4,60.0,PS_STOP_01

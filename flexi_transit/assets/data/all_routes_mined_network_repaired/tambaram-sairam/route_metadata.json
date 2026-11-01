@@ -1,0 +1,12 @@
+{
+  "route_name": "tambaram-sairam",
+  "trip_count": 11,
+  "total_detected_stops": 4,
+  "corridor_distance_m": 7119.95,
+  "dbscan_eps_m": 50.0,
+  "dbscan_min_samples": 2,
+  "minimum_dwell_seconds": 20.0,
+  "crawl_speed_threshold_kmh": 5.0,
+  "terminal_buffer_m": 300.0,
+  "osm_map_matching": true
+}
